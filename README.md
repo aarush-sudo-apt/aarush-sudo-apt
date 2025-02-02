@@ -4,6 +4,13 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarush-sudo-apt&label=Profile%20views&color=0e75b6&style=flat" alt="aarush-sudo-apt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarush-sudo-apt" alt="aarush-sudo-apt" /></a> </p>
