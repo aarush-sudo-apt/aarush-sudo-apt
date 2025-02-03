@@ -2,13 +2,11 @@
 <h3 align="center">A passionate AI/ML engineer in the making, exploring data, algorithms, and models.</h3>
 <img src="https://raw.githubusercontent.com/aarush-sudo-apt/aarush-sudo-apt/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
+
+
+
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarush-sudo-apt&label=Profile%20views&color=0e75b6&style=flat" alt="aarush-sudo-apt" /> </p>
